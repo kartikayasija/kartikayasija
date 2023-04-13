@@ -1,4 +1,6 @@
 ### Hi there 👋
+![vecteezy_programmer-people-concept-use-laptop-and-programming-code_-removebg-preview](https://user-images.githubusercontent.com/115306535/231888404-dfd1db8c-f823-4689-853c-b92d33801f36.png)
+
 
 <!--
 **kartikayasija/kartikayasija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
