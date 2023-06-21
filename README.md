@@ -22,11 +22,9 @@
 
 - 👯 I’m looking to collaborate on open source projects related to MERN Stack and Web Development
 
-- 🌱 I’m currently learning React.js
-
 - ⚡ Fun fact: I love playing chess and watching sitcoms in my free time
  
-- 📫 How to reach me: <img src="linkedin.png" alt="LinkedIn Badge" width=30px/>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/kartikayasija"> <img src="linkedin.png" alt="LinkedIn Badge" width=30px/></a>
 
 <h1 style="margin-top:40px"> 🛠️ Languages and Tools : </h1>
 
