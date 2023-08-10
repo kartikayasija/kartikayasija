@@ -37,6 +37,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=23563D7C"/>
   <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-%23323330.svg?style=for-the-badge&logo=tailwind-css&logoColor=23563D7C"/>
   <img alt="React.js" src="https://img.shields.io/badge/React.js-%23323330.svg?style=for-the-badge&logo=react&logoColor=23563D7C"/>
+ <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23323330.svg?style=for-the-badge&logo=react&logoColor=23563D7C"/>
 </div>
 <h3 style="margin:15px 0px">Backend Languages :</h3>
 
